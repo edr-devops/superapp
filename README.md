@@ -12,11 +12,9 @@ Inside users home directory, clone git repo at https://github.com/edr-devops/sup
 
 ## Challenge 4 
 Inside your loal copy of superapp there is a docker-compose file. 
-  * Review to ensure there are no issues within the docker-compose.yaml file
   * Update the build to also install curl
-  * Fix any other issues with the entrypoint script
-  * Using `docker-compose`, `build` the superapp container.
-  * Using `docker-compose`, Bring the superapp container `up`.
+  * Using `docker-compose`, `build` the superapp container. Fix any issues.
+  * Using `docker-compose`, Bring the superapp container `up`. Ensure container stays up - fixing any issues along the way.
   * Exec into the superapp container and retrieve the value of environment variable `my_super_var`
 
 ## Challenge 5
