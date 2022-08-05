@@ -1,6 +1,6 @@
-#!/bin//sh
+#!/bin/sh
 
-if [[ -n "${my_super_var}" ]]; then 
+if [[ -n "${my_super_var}" ] 
 	  continue
 fi 
 
