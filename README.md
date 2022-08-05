@@ -1,3 +1,7 @@
+
+# Useful links
+* https://docs.docker.com/compose/gettingstarted/
+
 # Challenges
 Please run the following as `ec2-user`, using sudo when required. 
 
