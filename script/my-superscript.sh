@@ -1,4 +1,7 @@
-#!/bin/sh
+#!/bin//sh
 
-echo "Hello ${MY_NAME}"
-sleep infinity
+if [[ -n ${my_super_var } ]]
+	  continue
+fi 
+
+sleep infinity 
