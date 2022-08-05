@@ -8,7 +8,7 @@ Gain SSH access to the interviewInstance via its Public IP. You may use the AWS 
 Ensure docker is running, and list running containers.
 
 ## Challenge 3
-Inside users home directory, clone git repo at https://github.com/edr-devops/superapp
+Inside users home directory, clone this repo
 
 ## Challenge 4 
 Inside your loal copy of superapp there is a docker-compose file. 
@@ -18,6 +18,6 @@ Inside your loal copy of superapp there is a docker-compose file.
   * Exec into the superapp container and retrieve the value of environment variable `my_super_var`
 
 ## Challenge 5
-As ec2-user commit and push changes, Use the commit message "Technical test - <your name>"
+As ec2-user commit and push changes, Use the commit message "Technical test - `your name`"
 
 
