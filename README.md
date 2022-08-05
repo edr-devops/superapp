@@ -8,7 +8,7 @@ Gain SSH access to the interviewInstance via its Public IP. You may use the AWS 
 Ensure docker is running, and list running containers.
 
 ## Challenge 3
-Inside users home directory, clone this repo
+Inside users home directory, `clone` this repo
 
 ## Challenge 4 
 Inside your loal copy of superapp there is a docker-compose file. 
