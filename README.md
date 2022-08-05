@@ -6,7 +6,7 @@
 Please run the following as `ec2-user`, using sudo when required. 
 
 ## Challenge 1
-Gain SSH access to the interviewInstance via its Public IP. You may use the AWS Console to retrieve connection details / aide in any required troubleshooting!!
+Gain SSH access to the interviewInstance ec2 instance via its Public IP. You will need to use the AWS Console to retrieve connection details of the EC2 instance / aide in any required troubleshooting!!
 
 ## Challenge 2
 Ensure docker is running, and list running containers.
