@@ -9,13 +9,13 @@ Please run the following as `ec2-user`, using sudo when required.
 Gain SSH access to the interviewInstance ec2 instance via its Public IP. You will need to use the AWS Console to retrieve connection details of the EC2 instance / aide in any required troubleshooting!!
 
 ## Challenge 2
-Ensure docker is running, and list running containers.
+On the interviewInstance -  Ensure docker is running, and list running containers.
 
 ## Challenge 3
-Inside users home directory, `clone` this repo
+Whilst on the interviewInstance - Inside users home directory, `clone` this repo
 
 ## Challenge 4 
-Inside your loal copy of superapp there is a docker-compose file. 
+Still on the interviewInstance - Inside your local copy of superapp there is a docker-compose file. 
   * Update the build to also install curl
   * Using `docker-compose`, `build` the superapp container. Fix any issues.
   * Using `docker-compose`, Bring the superapp container `up`. Ensure container stays up - fixing any issues along the way.
